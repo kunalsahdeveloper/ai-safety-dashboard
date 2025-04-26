@@ -10,25 +10,30 @@ A modern, professional dashboard for tracking and reporting AI safety incidents.
 
 ## 🛠️ Getting Started
 
-### 1. Clone the Repository
+### 1. Deploy Link
 ```bash
-git clone <your-repo-url>
+https://ai-safety-dashboard.netlify.app/
+```
+
+### 2. Clone the Repository
+```bash
+git clone https://github.com/kunalsahdeveloper/ai-safety-dashboard.git
 cd ai-safety-dashboard
 ```
 
-### 2. Install Dependencies
+### 3. Install Dependencies
 ```bash
 npm install
 ```
 
-### 3. Run the Project Locally
+### 4. Run the Project Locally
 ```bash
 npm run dev
 ```
 
 The app will be available at [http://localhost:5173](http://localhost:5173).
 
-### 4. Build for Production
+### 5. Build for Production
 ```bash
 npm run build
 ```
